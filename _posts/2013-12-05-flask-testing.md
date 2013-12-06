@@ -7,5 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-### flask testing
+### Testing Flask Applications
+- http://flask.pocoo.org/docs/testing/
+
 学习中。。。。
