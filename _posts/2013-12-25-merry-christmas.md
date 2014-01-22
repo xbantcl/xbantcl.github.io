@@ -6,6 +6,8 @@ category:
 tags: []
 ---
 {% include JB/setup %}
+<script type="text/javascript"
+src="http://qzonestyle.gtimg.cn/qzone/openapi/qc_loader.js" charset="utf-8" data-callback="true"></script>
 <div>
     <p>学习html5 canvas过程中, 在csdn看到了用canvas简单描绘了圣诞树，觉得挺有意思的， 就自己模仿其源码自己弄了一个，主要是巩固自己所学, 祝大家圣诞节快乐!!!</p>
     原著地址:<a>http://www.spjeff.com/2013/12/05/christmas-tree-html5-js-and-css3/</a>
